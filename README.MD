@@ -92,28 +92,26 @@ This mini-project helps you practice:
 * **Unit I (Basics of Java)**: JVM, JRE, classpath, classes, fields, access control, methods, overloading, loops, operators, etc.
 * **Unit II (OOP Advanced)**: Inheritance, constructors in extended classes, type conversion, `protected`/`final`, abstract classes, interfaces, and packages.
 
----
+///---
 
-### 🚀 Future Enhancements
+///### 🚀 Future Enhancements
 
-💡 Possible improvements:
+///💡 Possible improvements:
 
-* 🎟️ **Ticket Cancellation** option
-* 💾 **File or Database Storage** for booking records
-* 💡 **Dynamic Seat Availability** (track multiple seats per movie)
-* 🌐 GUI or Web-based front end
+///* 🎟️ **Ticket Cancellation** option
+///* 💾 **File or Database Storage** for booking records
+///* 💡 **Dynamic Seat Availability** (track multiple seats per movie)
+///* 🌐 GUI or Web-based front end
 
----
+////---
 
 ### 👨‍💻 Author
 
-**Vishal Singh**
+**Vaani Jain**
 📧 [vaanijain1704@gmail.com](mailto:vaanijain1704@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/vaani17jain)
 
 ---
-
-Would you like me to also create a **`LICENSE` file** or a **GitHub-style banner** for the README?
 
 
 
