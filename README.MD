@@ -108,8 +108,8 @@ This mini-project helps you practice:
 ### 👨‍💻 Author
 
 **Vishal Singh**
-📧 [connectvishalsingh27@gmail.com](mailto:connectvishalsingh27@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/vishal-04-singh)
+📧 [vaanijain1704@gmail.com](mailto:vaanijain1704@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/vaani17jain)
 
 ---
 
