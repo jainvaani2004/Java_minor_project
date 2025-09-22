@@ -18,7 +18,6 @@ This project demonstrates key **Java fundamentals** such as classes, objects, in
 ### 🏗️ Project Structure
 
 ```
-cinema/
  ┣ Bookable.java        # Interface for booking/canceling seats
  ┣ Movie.java           # Represents a movie with name and duration
  ┣ Seat.java            # Abstract seat class (parent)
