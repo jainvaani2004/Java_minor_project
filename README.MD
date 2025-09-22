@@ -92,18 +92,7 @@ This mini-project helps you practice:
 * **Unit I (Basics of Java)**: JVM, JRE, classpath, classes, fields, access control, methods, overloading, loops, operators, etc.
 * **Unit II (OOP Advanced)**: Inheritance, constructors in extended classes, type conversion, `protected`/`final`, abstract classes, interfaces, and packages.
 
-///---
-
-///### 🚀 Future Enhancements
-
-///💡 Possible improvements:
-
-///* 🎟️ **Ticket Cancellation** option
-///* 💾 **File or Database Storage** for booking records
-///* 💡 **Dynamic Seat Availability** (track multiple seats per movie)
-///* 🌐 GUI or Web-based front end
-
-////---
+---
 
 ### 👨‍💻 Author
 
